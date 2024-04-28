@@ -18,4 +18,4 @@ How to install?
 How to uninstall?
   To uninstall, go to the same Appearance option in setting,
   scroll down at last
-  click on **Reset to default** button.
+  click on **Reset to default** button
